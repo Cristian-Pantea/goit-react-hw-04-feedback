@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cristian-Pantea/goit-react-hw-04-feedback/static/css/main.0bb3f4bd.css",
+    "main.js": "/Cristian-Pantea/goit-react-hw-04-feedback/static/js/main.8f0d4192.js",
+    "index.html": "/Cristian-Pantea/goit-react-hw-04-feedback/index.html",
+    "main.0bb3f4bd.css.map": "/Cristian-Pantea/goit-react-hw-04-feedback/static/css/main.0bb3f4bd.css.map",
+    "main.8f0d4192.js.map": "/Cristian-Pantea/goit-react-hw-04-feedback/static/js/main.8f0d4192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb3f4bd.css",
+    "static/js/main.8f0d4192.js"
+  ]
+}
